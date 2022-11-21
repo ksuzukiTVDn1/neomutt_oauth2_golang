@@ -1,5 +1,7 @@
 # Neomutt OAuth2 utility
 
+[![Release](https://github.com/ksuzukiTVDn1/neomutt_oauth2_golang/actions/workflows/go.yml/badge.svg)](https://github.com/ksuzukiTVDn1/neomutt_oauth2_golang/actions/workflows/go.yml)
+
 ## Overview
 
 This is a program ported from Mutt/Neomutt that performs OAuth2.0 authentication to Golang.
